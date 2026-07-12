@@ -817,7 +817,7 @@ textarea {
   margin-top: 28px;
 }
 
-.footer-social a {
+.footer-social span {
   display: grid;
   width: 48px;
   height: 48px;
@@ -830,7 +830,7 @@ textarea {
   transition: transform 180ms ease, background 180ms ease;
 }
 
-.footer-social a:hover {
+.footer-social span:hover {
   transform: translateY(-2px);
   background: var(--clay);
 }
